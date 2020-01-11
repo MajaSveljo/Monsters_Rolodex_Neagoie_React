@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters_rolodex_neagoie_react/static/css/main.9b6b9e10.chunk.css",
+    "main.js": "/monsters_rolodex_neagoie_react/static/js/main.03c91198.chunk.js",
+    "main.js.map": "/monsters_rolodex_neagoie_react/static/js/main.03c91198.chunk.js.map",
+    "runtime-main.js": "/monsters_rolodex_neagoie_react/static/js/runtime-main.43fe0d9b.js",
+    "runtime-main.js.map": "/monsters_rolodex_neagoie_react/static/js/runtime-main.43fe0d9b.js.map",
+    "static/js/2.3a82cee6.chunk.js": "/monsters_rolodex_neagoie_react/static/js/2.3a82cee6.chunk.js",
+    "static/js/2.3a82cee6.chunk.js.map": "/monsters_rolodex_neagoie_react/static/js/2.3a82cee6.chunk.js.map",
+    "index.html": "/monsters_rolodex_neagoie_react/index.html",
+    "precache-manifest.7000a7b737bf9b9c45a09e72766965e5.js": "/monsters_rolodex_neagoie_react/precache-manifest.7000a7b737bf9b9c45a09e72766965e5.js",
+    "service-worker.js": "/monsters_rolodex_neagoie_react/service-worker.js",
+    "static/css/main.9b6b9e10.chunk.css.map": "/monsters_rolodex_neagoie_react/static/css/main.9b6b9e10.chunk.css.map",
+    "static/js/2.3a82cee6.chunk.js.LICENSE": "/monsters_rolodex_neagoie_react/static/js/2.3a82cee6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43fe0d9b.js",
+    "static/js/2.3a82cee6.chunk.js",
+    "static/css/main.9b6b9e10.chunk.css",
+    "static/js/main.03c91198.chunk.js"
+  ]
+}
